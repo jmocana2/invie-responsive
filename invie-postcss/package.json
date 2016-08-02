@@ -1,5 +1,5 @@
 {
-  "name": "platzi-postcss",
+  "name": "jmocana-postcss",
   "version": "1.0.0",
   "description": "",
   "main": "gulpfile.js",
@@ -21,6 +21,6 @@
   },
   "scripts": {},
   "keywords": [],
-  "author": "Carlos Azaustre @carlosazaustre",
+  "author": "Jose Maria Ocaña",
   "license": "ISC"
 }
